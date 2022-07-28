@@ -1,6 +1,6 @@
 # techGig -CODE GLADIATORS- ML Problem
 <br>
-##Problem Satement: 
+## Problem Satement: 
 Phishing Detection
 <br>
 
@@ -12,11 +12,11 @@ The data set consist of 30 features of  phishing website. The value of attribute
 
 
 
-**Result-column Value counts** <br><br>
+## Result-column Value counts <br><br>
 ![valueCounts](images/value_count.png)
-**Correlation Plots**<br><br>
+## Correlation Plots <br><br>
 ![corr](images/corr_plot.png)
 
-**Count Plots:**<br><br>
+## Count Plots: <br><br>
 ![countPlots](images/count_plots.png)
 
